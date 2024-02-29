@@ -1,5 +1,5 @@
 <details>
-<summary><strong>Contact Information</strong></summary>
+<summary><strong>Contact 📧</strong></summary>
 <p>
 
 #### 📧 **Contact**
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary><strong>Professional Profile</strong></summary>
+<summary><strong>Professional Profile 💼</strong></summary>
 <p>
 
 #### 💼 **Professional Profile**
@@ -21,7 +21,7 @@ Experienced Information Security Professional with expertise in Third Party Risk
 </details>
 
 <details>
-<summary><strong>Skills</strong></summary>
+<summary><strong>Skills 🛠</strong></summary>
 <p>
 
 #### 🛠 **Skills**
@@ -44,7 +44,7 @@ Highlight a few projects here with links to the repositories, e.g.,
 </details>
 
 <details>
-<summary><strong>Certifications</strong></summary>
+<summary><strong>Certifications 📜</strong></summary>
 <p>
 
 #### 📜 **Certifications**
@@ -56,7 +56,7 @@ Highlight a few projects here with links to the repositories, e.g.,
 </details>
 
 <details>
-<summary><strong>Education</strong></summary>
+<summary><strong>Education 🎓</strong></summary>
 <p>
 
 #### 🎓 **Education**
@@ -66,7 +66,7 @@ Highlight a few projects here with links to the repositories, e.g.,
 </details>
 
 <details>
-<summary><strong>Languages</strong></summary>
+<summary><strong>Languages 🌐</strong></summary>
 <p>
 
 #### 🌐 **Languages**
