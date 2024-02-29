@@ -33,17 +33,6 @@ Experienced Information Security Professional with expertise in Third Party Risk
 </details>
 
 <details>
-<summary><strong>Projects</strong></summary>
-<p>
-
-#### 💡 **Projects**
-Highlight a few projects here with links to the repositories, e.g.,
-- [Project Name](GitHub link) - Brief description.
-
-</p>
-</details>
-
-<details>
 <summary><strong>Certifications 📜</strong></summary>
 <p>
 
